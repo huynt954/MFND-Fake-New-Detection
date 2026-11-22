@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+scikit-learn
+pandas
+pillow
+# Chỉ cần khi chạy OCR (ocr.py):
+paddlepaddle
+paddleocr
